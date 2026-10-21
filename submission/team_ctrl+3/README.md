@@ -1,95 +1,21 @@
-# Hackathon Submission
-
-## Team Information
+Hackathon Submission
 
 Team Name: Ctrl+3
 
-Team Members:
-- Adeena Nauman — Team Lead / Problem 1
-- Guljabeen Gabol — Problem 2
-- Maryam Javaid — Problem 3
+Team Lead: Adeena Nauman
+Team Members: Adeena Nauman, Guljabeen Gabol, Maryam Javaid
 
-## Project Overview
+Problem Statements
 
-This repository contains our team's solutions to three hackathon problem statements.
+1. Campus Gig & SkillSwap Portal - Adeena Nauman
+Deployed link: https://connect-campus-i699.vercel.app/
 
-Problem 1: [Title]
+2. KisanMandi: Crop Prices & Produce Marketplace - Guljabeen Gabol
+Deployed link: kisaanmandi.vercel.app
 
-**Problem Statement:**  
-[Brief description]
+3. ReliefHub: Flood Relief Coordination Dashboard - Maryam Javaid
+Deployed link: https://kinara-relief.onrender.com/
+ Role | ID | Password |
+| Relief Coordinator (full access) | `coordinator` | [coordinator123] |
+| Field Volunteer (limited access) | `volunteer` | [volunteer098] |
 
-**Our Solution:**  
-[Explain your approach]
-
-**Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-
-**Technologies Used:**  
-[Tech stack]
-
-**How to Run:**  
-See `problem-1/README.md`.
-
-## Problem 2: [Title]
-
-**Problem Statement:**  
-[Brief description]
-
-**Our Solution:**  
-[Explain your approach]
-
-**Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-
-**Technologies Used:**  
-[Tech stack]
-
-**How to Run:**  
-See `problem-2/README.md`.
-
-## Problem 3: [Title]
-
-**Problem Statement:**  
-[Brief description]
-
-**Our Solution:**  
-[Explain your approach]
-
-**Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-
-**Technologies Used:**  
-[Tech stack]
-
-**How to Run:**  
-See `problem-3/README.md`.
-
-## Team Contributions
-
-| Member | Contribution |
-|---|---|
-| Member 1 | Problem 1, coordination and submission |
-| Member 2 | Problem 2 |
-| Member 3 | Problem 3 |
-
-## Project Structure
-
-- `problem-1/` — First solution
-- `problem-2/` — Second solution
-- `problem-3/` — Third solution
-
-## Deployment Links
-
-- Problem 1: [Link]
-- Problem 2: [Link]
-- Problem 3: [Link]
-
-## Known Limitations
-
-[Document any incomplete functionality honestly.]
